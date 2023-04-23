@@ -4,3 +4,4 @@
 ## Alur
 
 ## Dokumentasi
+![bandicam 2023-04-23 21-07-07-077](https://user-images.githubusercontent.com/100897554/233844708-172de25a-f018-44ef-b390-4e4902b5fbf1.gif)

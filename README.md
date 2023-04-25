@@ -18,8 +18,8 @@
   
 
 ## Alur
-- Pemain membuka program pengendali bola,
-- User menekan tombol W A S D atau ⬆ ⬇ ⬅ ➡
+- Pemain membuka program pengendali bola.
+- User menekan tombol W A S D atau ⬆ ⬇ ⬅ ➡.
 - Jika user menekan tombol kanan dan berhenti, maka skor bertambah +1.
 - Jika user menekan tombol atas, bawah, atau kiri, maka skor akan menjadi +3.
 - Namun jika user menekan tombol yang sama secara bersamaan seperti kanan lalu kanan lagi maka skor hanya +1 bukan +2.

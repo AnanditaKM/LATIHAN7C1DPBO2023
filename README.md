@@ -8,11 +8,11 @@
   - Controller, berfungsi untuk menerima inputan apabila User menekan tombol W A S D atau ⬆ ⬇ ⬅ ➡.
   - Display, berfungsi untuk membuat dan menampilkan frame.
   - Game, merupakan class utama yang  berfungsi untuk mengontrol jalannya game.
-  - GameObject merupakan sebuah class template yang dapat digunakan untuk membuat semua objek yang ingin ditambahkan dalam permainan.
-  - GameInterface bukan class, melainkan sebuah Interface yang berisi dua method yaitu render() dan loop(). Method render() digunakan untuk menampilkan objek-     objek pada layar, sedangkan method loop() berfungsi untuk mengatur perilaku objek-objek tersebut setiap detik.
-  - Player merupakan objek berbentuk bulatan yang dapat bergerak, dan merupakan turunan atau anak kelas dari GameObject.
-  - Kotak merupakan objek yang dapat berpindah secara acak ketika disentuh dan juga merupakan turunan atau anak kelas dari GameObject.
-  - Handler merupakan class yang berfungsi untuk mengatur semua objek yang ada di dalam sebuah permainan atau game.
+  - GameObject, merupakan sebuah class template yang dapat digunakan untuk membuat semua objek yang ingin ditambahkan dalam permainan.
+  - GameInterface, bukan class, melainkan sebuah Interface yang berisi dua method yaitu render() dan loop(). Method render() digunakan untuk menampilkan objek-     objek pada layar, sedangkan method loop() berfungsi untuk mengatur perilaku objek-objek tersebut setiap detik.
+  - Player, merupakan objek berbentuk bulatan yang dapat bergerak, dan merupakan turunan atau anak kelas dari GameObject.
+  - Kotak, merupakan objek yang dapat berpindah secara acak ketika disentuh dan juga merupakan turunan atau anak kelas dari GameObject.
+  - Handler, merupakan class yang berfungsi untuk mengatur semua objek yang ada di dalam sebuah permainan atau game.
   - Synchronization, merupakan kelas yang dipanggil pertama kali ketika program dijalankan, dan kemudian akan memanggil kelas Game.
   
   
